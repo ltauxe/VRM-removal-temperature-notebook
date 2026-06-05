@@ -8,4 +8,4 @@ a method which has been used over the last seven decades.
 This method can become more widely used, thanks to these improvements, and applied to resolve many archaeological 
 and geological issues.
 
-The codee in this notebook was used to generate the figures in the manuscript. 
+The code in this notebook was used to generate the figures in the manuscript. 
