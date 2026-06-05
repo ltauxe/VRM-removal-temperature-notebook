@@ -1,4 +1,4 @@
-notebook associated with the manuscript entitled "Viscous Remanent Magnetization (VRM) Authentication Method for Archaeological Artifacts"
+Notebook associated with the manuscript entitled "Viscous Remanent Magnetization (VRM) Authentication Method for Archaeological Artifacts"
 by Voav Vaknin, Brendan Cych, Jeffery Gee and Lisa Tauxe, in preparation for submission to the Proceedings of the National Academy of Sciences" 
 
 The manuscript introduced a a magnetic method which can distinguish between fake and authentic archaeological clay objects. The method is useful for curators who wish to display only authentic artifacts and for archaeologists and historians,
